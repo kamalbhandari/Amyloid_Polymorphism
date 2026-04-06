@@ -19,20 +19,20 @@ Each notebook typically performs the following task:
 *Analyzes kinetic behavior across a range of initial protein concentration and plots half-time as a function of concentration as well as the time evolution of normalized fibril mass for the given total protein concentration. 
 Parameter variation:
 Each of these notebooks is labeled clearly to indicate the specific parameter or condition being varied. They are as follows:
-1.	Fig_2A.ipynb  It saves the time evolution of fibril mass (Fig_2A.npy) and reproduces Fig. 2A and bottom panel of Fig. 2B for the default parameter set (Table 1).
-2.	Fig_2B_top.ipynb It reproduces top panel of Fig. 2B.
-3.	Fig_2C_top1.ipynb It reproduces top and left panel of Fig. 2C.
-4.	Fig_2C_top2.ipynb It reproduces top and right panel of Fig. 2C.
-5.	Fig_2C_bottom1.ipynb It reproduces bottom and left panel of Fig. 2C.
-6.	Fig_2C_bottom2.ipynb It reproduces bottom and right panel of Fig. 2C.
-7.	Fig_3A.ipynb  It reproduces Fig. 3A (in log-linear scale) for varying fibril stability.
-8.	Fig_3B.ipynb  It reproduces Fig. 3B (in both log scale) for varying fibril stability.
-9.	Fig_4.ipynb  It reproduces Fig. 4A, 4B for three-parallel pathway aggregation model.
-10.	Fig_5.ipynb  It reproduces Fig. 5A, 5B for two-parallel pathway aggregation model incorporating liquid-liquid phase separation (LLPS). 
-11.	Fig_6A.ipynbIt saves the time evolution of fibril mass (Fig_6A.npy) and reproduces Fig.6A.
-12.	Fig_6B_top.ipynb  It reproduces Fig. 6B, top panel.
-13.	Fig_6B_bottom.ipynb  It reproduces Fig. 6B, bottom panel.
-14.	Fig_S1.ipynb    It reproduces Fig. S1 for varying conformation conversion barrier.
+1.	Fig_2A.ipynb → It saves the time evolution of fibril mass (Fig_2A.npy) and reproduces Fig. 2A and bottom panel of Fig. 2B for the default parameter set (Table 1).
+2.	Fig_2B_top.ipynb → It reproduces top panel of Fig. 2B.
+3.	Fig_2C_top1.ipynb → It reproduces top and left panel of Fig. 2C.
+4.	Fig_2C_top2.ipynb → It reproduces top and right panel of Fig. 2C.
+5.	Fig_2C_bottom1.ipynb → It reproduces bottom and left panel of Fig. 2C.
+6.	Fig_2C_bottom2.ipynb → It reproduces bottom and right panel of Fig. 2C.
+7.	Fig_3A.ipynb → It reproduces Fig. 3A (in log-linear scale) for varying fibril stability.
+8.	Fig_3B.ipynb → It reproduces Fig. 3B (in both log scale) for varying fibril stability.
+9.	Fig_4.ipynb → It reproduces Fig. 4A, 4B for three-parallel pathway aggregation model.
+10.	Fig_5.ipynb → It reproduces Fig. 5A, 5B for two-parallel pathway aggregation model incorporating liquid-liquid phase separation (LLPS). 
+11.	Fig_6A.ipynb → It saves the time evolution of fibril mass (Fig_6A.npy) and reproduces Fig.6A.
+12.	Fig_6B_top.ipynb → It reproduces Fig. 6B, top panel.
+13.	Fig_6B_bottom.ipynb → It reproduces Fig. 6B, bottom panel.
+14.	Fig_S1.ipynb  →  It reproduces Fig. S1 for varying conformation conversion barrier.
 
 Data:
 
@@ -41,4 +41,4 @@ This zip file contains ‘.npy’ files generated using the Python Notebooks. We
 File naming and descriptions
 1.	Fig_2A.npy → It reproduces Fig. 2A, bottom panel of Fig. 2B.
 2.	Fig_6A.npy → It reproduces top panels of Fig. 6A.
-<img width="468" height="641" alt="image" src="https://github.com/user-attachments/assets/080962e3-ee04-4079-9aaf-2d4538ba2360" />
+
