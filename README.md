@@ -26,11 +26,12 @@ Each of these notebooks is labeled clearly to indicate the specific parameter or
 7.	Fig_3A.ipynb → It reproduces Fig. 3A (in log-linear scale) for varying fibril stability.
 8.	Fig_3B.ipynb → It reproduces Fig. 3B (in both log scale) for varying fibril stability.
 9.	Fig_4.ipynb → It reproduces Fig. 4A, 4B for three-parallel pathway aggregation model.
-10.	Fig_5.ipynb → It reproduces Fig. 5A, 5B for two-parallel pathway aggregation model incorporating liquid-liquid phase separation (LLPS). 
-11.	Fig_6A.ipynb → It saves the time evolution of fibril mass (Fig_6A.npy) and reproduces Fig.6A.
-12.	Fig_6B_top.ipynb → It reproduces Fig. 6B, top panel.
-13.	Fig_6B_bottom.ipynb → It reproduces Fig. 6B, bottom panel.
-14.	Fig_S1.ipynb  →  It reproduces Fig. S1 for varying conformation conversion barrier.
+10.	10.	Fig_5A.ipynb  It reproduces Fig. 5A for two-parallel pathway aggregation model incorporating liquid-liquid phase separation (LLPS) for more stable oligomers than droplets. 
+11.	Fig_5B.ipynb  It reproduces Fig. 5B for two-parallel pathway aggregation model incorporating liquid-liquid phase separation (LLPS) for more stable droplets than oligomers. 
+12.	Fig_6A.ipynb → It saves the time evolution of fibril mass (Fig_6A.npy) and reproduces Fig.6A.
+13.	Fig_6B_top.ipynb → It reproduces Fig. 6B, top panel.
+14.	Fig_6B_bottom.ipynb → It reproduces Fig. 6B, bottom panel.
+15.	Fig_S1.ipynb  →  It reproduces Fig. S1 for varying conformation conversion barrier.
 
 Data:
 
