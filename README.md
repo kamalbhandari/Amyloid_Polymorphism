@@ -2,9 +2,8 @@
 Protein aggregation into amyloid fibrils is a hallmark of numerous neurodegenerative diseases and systematic diseases. Increasing evidence indicates that many amyloid-forming proteins exhibit structural polymorphism, giving rise to distinct fibril morphologies associated with variations in aggregation kinetics and disease phenotypes. Despite extensive studies, the mechanistic origin of such polymorphism, particularly its dependence on concentration and competing aggregation pathways, remains poorly understood.
 We developed a multi-pathway kinetic model to investigate amyloid aggregation and the emergence of fibril polymorphism. The model captures the time evolution of monomers, oligomer of distinct sizes, and multiple fibril species, allowing us to systemically analyze how nucleus size, oligomer stability and fibrilization barrier govern morphological selection and alter aggregation dynamics. By exploring a wide range of conditions, we reveal how competing pathways lead to concentration-dependent transitions between distinct fibril morphologies. As an extension, we further incorporate LLPS into our model to examine its modulatory role in multi-pathway aggregation.
 This archive contains all simulated data and corresponding python notebooks.
-Directory Structure:
-
-In uploaded files section on Zenodo, there are two zip files. They represent:
+# Directory Structure:
+In uploaded files section, there are two zip files. They represent:
 1.	Python Notebooks
 2.	Data
 
