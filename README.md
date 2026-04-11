@@ -41,4 +41,4 @@ File naming and descriptions
 1.	Fig_2A.npy → It reproduces Fig. 2A, bottom panel of Fig. 2B.
 2.	Fig_6A.npy → It reproduces top panels of Fig. 6A.
 	
-All data are available on Zenodo at 
+All data are available on Zenodo at https://doi.org/10.5281/zenodo.19512643.
